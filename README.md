@@ -98,3 +98,70 @@ AVERAGEX(
 
 Review Intensity =
 SUM('Hospital'[review_count]) / [Total Hospitals]
+
+
+🔍 6. Key Insights
+From initial analysis:
+📍 Coverage
+Tier-1 metros dominate oncology capacity (Mumbai/Delhi/Bangalore/Kolkata)
+
+💉 Capability
+Surgery & Chemo available >95%
+Radiation ~63%
+Immuno/Targeted <20% (advanced therapy gap)
+
+💰 Affordability
+Private cost varies 4x–6x between states
+Some Tier-2 cities offer lower cost at similar quality
+
+⭐ Quality
+
+Higher cost ≠ always higher rating (brand premium effect)
+
+🧾 7. Tech Stack
+Layer	Tools
+Data Collection	Selenium, Requests, Research
+Cleaning	Python (Pandas, Regex)
+Dashboard	Power BI
+Modeling	DAX
+Use Case	Healthcare Analytics
+🎯 8. Potential Extensions
+
+Future enhancements:
+
+ML-based patient recommendation
+Insurance pricing simulation
+Outcome prediction modeling
+API or live hospital feeds
+Add more cancer types (Pancreatic / Lung / GI)
+
+🔗 9. Use Cases
+
+This project can support:
+
+✔ Oncology Planning
+✔ Cost Benchmarking
+✔ Insurance Underwriting
+✔ Patient Navigation
+✔ Healthcare Equity Research
+
+👤 10. Author
+
+Name: Chandra D
+Role: Data Analyst
+Domain Interests: Healthcare, ML, Data analyst, Data science, PowerBI Developer
+
+📬 Contact / Collaboration
+
+If you work in:
+
+Healthcare analytics
+Insurance
+Biotech
+Hospital IT
+Clinical data
+
+Open to meaningful collaboration & learning.
+
+LinkedIn:(https://www.linkedin.com/in/chandra-d-7a9b93176/)
+Email: preethamchandu1308@gmail.com
